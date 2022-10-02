@@ -1,0 +1,17 @@
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\bin\Debug\net6.0-windows\English Translator.exe
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\bin\Debug\net6.0-windows\English Translator.deps.json
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\bin\Debug\net6.0-windows\English Translator.runtimeconfig.json
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\bin\Debug\net6.0-windows\English Translator.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\bin\Debug\net6.0-windows\English Translator.pdb
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\English Translator.csproj.AssemblyReference.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\English_Translator.Form1.resources
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\English Translator.csproj.GenerateResource.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\English Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\English Translator.AssemblyInfoInputs.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\English Translator.AssemblyInfo.cs
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\English Translator.csproj.CoreCompileInputs.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\English Translator.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\refint\English Translator.dll
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\English Translator.pdb
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\English Translator.genruntimeconfig.cache
+C:\Users\Chandra Ramdeen\OneDrive\Documents\GitHub\Marbles\English Translator\English Translator\obj\Debug\net6.0-windows\ref\English Translator.dll
